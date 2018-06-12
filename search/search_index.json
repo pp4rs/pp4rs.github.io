@@ -2,38 +2,73 @@
     "docs": [
         {
             "location": "/",
-            "text": "Willkommen!\n\n\nWelcome to the course website for Programming Practices for Research in Economics at the University of Zurich in Fall 2017.\n\n\nImportant Information\n\n\nA course syllabus is now available \nhere\n.\nWe don't anticipate to deviate from the \nSchedule\n too much - follow the \nAnnouncements\n page for updates.\n\n\n\n\nSummary\n\n\n\n\nDates: Daily from August 28th until September 15th (excluding weekends)\n\n\nMorning Session: 9.30 - 12.30\n\n\nAfternoon Session: 14.00 - 17.00\n\n\nLocation: See \nSchedule\n\n\nContact: programming@econ.uzh.ch\n\n\n\n\n\n\nPre-Course Survey\n\n\nPlease fill out the pre-course survey before the course begins. You can find it \nhere\n.\n\n\nSoftware Installation Guide\n\n\nYou will need to install the necessary software on to your laptop to bring to the class each day so you can code along with us.\n\n\n\n\nAn archived version of the installation guide we used for the 2017 edition is available \nhere\n.\n\n\nThe most recent version of the installation guide is \nhere\n, but it may have evolved substantially since the course ran.\n\n\n\n\n\n\nTip\n\n\nPlease try and install all the software before the course begins.\nIf you are struggling we are able to help - but we expect you have tried to work through the guide yourself.\n\n\n\n\nWhen: Friday, August 25th, 9.30am - 12.30am\n\n\nWhere: SOF-E-09\n\n\n\n\n\n\nSlack Chat \n\n\nThroughout the course we will post useful tidbits of information, and answer questions that are slightly off topic in a web-chat environment called Slack.\n\n\nClick \nhere\n, or on the icon above, to be redirected to the Slack login page for our course.",
+            "text": "Willkommen!\n\n\nWelcome to the course website for Programming Practices for Research in Economics.",
             "title": "Home"
         },
         {
             "location": "/#willkommen",
-            "text": "Welcome to the course website for Programming Practices for Research in Economics at the University of Zurich in Fall 2017.",
+            "text": "Welcome to the course website for Programming Practices for Research in Economics.",
             "title": "Willkommen!"
         },
         {
-            "location": "/#important-information",
-            "text": "A course syllabus is now available  here .\nWe don't anticipate to deviate from the  Schedule  too much - follow the  Announcements  page for updates.   Summary   Dates: Daily from August 28th until September 15th (excluding weekends)  Morning Session: 9.30 - 12.30  Afternoon Session: 14.00 - 17.00  Location: See  Schedule  Contact: programming@econ.uzh.ch",
-            "title": "Important Information"
+            "location": "/about/about-us/",
+            "text": "Here is some information to add",
+            "title": "Motivation"
         },
         {
-            "location": "/#pre-course-survey",
-            "text": "Please fill out the pre-course survey before the course begins. You can find it  here .",
-            "title": "Pre-Course Survey"
+            "location": "/about/instructors/",
+            "text": "Instructors\n\n\nThe course is run by PhD Students in the Department of Economics and the members of the Deparment's IT engineering group.\n\n\nUlrich Bergmann\n\n\nUli\n is a Doctoral Candiate in the Department of Economics. Uli joined the team for the 2018 Edition.\n\n\nLachlan Deer\n\n\nLachlan\n is a Doctoral Candidate in the Department of Economics. His research interests lie in empirical industrial organization, quantitative marketing and structural econometrics. Lachlan was a co-founder of the PP4Rs course, teaching in 2016 and 2017.\n\n\nAdrian Etter\n\n\nAdrian\n was the team leader of the IT engineering group within the Department of Economics until the end of the 2017/18 academic year. Adrian was a co-founder of PP4RS, teaching in 2016 and 2017.\n\n\nJulian Langer\n\n\nJulian\n is a Doctoral Candidate in the Department of Economics. His research interests lie in economic history and applied econometrics.  Julian was a co-founder of PP4RS, teaching in 2016 and 2017.\n\n\nUrsina Schaede\n\n\nUrsina\n is a Doctoral Candiate in the Department of Economics. Ursina joined the team for the 2018 Edition.\n\n\nDora Simon\n\n\nDora\n is a Doctoral Candiate in the Department of Economics. Dora joined the team for the 2018 Edition.\n\n\nMax Winkler\n\n\nMax\n is a Doctoral Candidate in the Department of Economics. His research interests lie at the intersection of cultural economics, behavioural economics and development economics.\nMax was a co-founder of PP4RS, teaching in 2016 and 2017.\n\n\nCarlo Zanella\n\n\nCarlo\n is a Doctoral Candiate in the Department of Economics. Carlo joined the team for the 2018 Edition.\n\n\nChristian Zund\n\n\nChristian\n is a Doctoral Candiate in the Department of Economics. Christian joined the team for the 2018 Edition.",
+            "title": "Instructors"
         },
         {
-            "location": "/#software-installation-guide",
-            "text": "You will need to install the necessary software on to your laptop to bring to the class each day so you can code along with us.   An archived version of the installation guide we used for the 2017 edition is available  here .  The most recent version of the installation guide is  here , but it may have evolved substantially since the course ran.    Tip  Please try and install all the software before the course begins.\nIf you are struggling we are able to help - but we expect you have tried to work through the guide yourself.   When: Friday, August 25th, 9.30am - 12.30am  Where: SOF-E-09",
-            "title": "Software Installation Guide"
+            "location": "/about/instructors/#instructors",
+            "text": "The course is run by PhD Students in the Department of Economics and the members of the Deparment's IT engineering group.",
+            "title": "Instructors"
         },
         {
-            "location": "/#slack-chat",
-            "text": "Throughout the course we will post useful tidbits of information, and answer questions that are slightly off topic in a web-chat environment called Slack.  Click  here , or on the icon above, to be redirected to the Slack login page for our course.",
-            "title": "Slack Chat "
+            "location": "/about/instructors/#ulrich-bergmann",
+            "text": "Uli  is a Doctoral Candiate in the Department of Economics. Uli joined the team for the 2018 Edition.",
+            "title": "Ulrich Bergmann"
         },
         {
-            "location": "/about-us/",
-            "text": "",
-            "title": "About"
+            "location": "/about/instructors/#lachlan-deer",
+            "text": "Lachlan  is a Doctoral Candidate in the Department of Economics. His research interests lie in empirical industrial organization, quantitative marketing and structural econometrics. Lachlan was a co-founder of the PP4Rs course, teaching in 2016 and 2017.",
+            "title": "Lachlan Deer"
+        },
+        {
+            "location": "/about/instructors/#adrian-etter",
+            "text": "Adrian  was the team leader of the IT engineering group within the Department of Economics until the end of the 2017/18 academic year. Adrian was a co-founder of PP4RS, teaching in 2016 and 2017.",
+            "title": "Adrian Etter"
+        },
+        {
+            "location": "/about/instructors/#julian-langer",
+            "text": "Julian  is a Doctoral Candidate in the Department of Economics. His research interests lie in economic history and applied econometrics.  Julian was a co-founder of PP4RS, teaching in 2016 and 2017.",
+            "title": "Julian Langer"
+        },
+        {
+            "location": "/about/instructors/#ursina-schaede",
+            "text": "Ursina  is a Doctoral Candiate in the Department of Economics. Ursina joined the team for the 2018 Edition.",
+            "title": "Ursina Schaede"
+        },
+        {
+            "location": "/about/instructors/#dora-simon",
+            "text": "Dora  is a Doctoral Candiate in the Department of Economics. Dora joined the team for the 2018 Edition.",
+            "title": "Dora Simon"
+        },
+        {
+            "location": "/about/instructors/#max-winkler",
+            "text": "Max  is a Doctoral Candidate in the Department of Economics. His research interests lie at the intersection of cultural economics, behavioural economics and development economics.\nMax was a co-founder of PP4RS, teaching in 2016 and 2017.",
+            "title": "Max Winkler"
+        },
+        {
+            "location": "/about/instructors/#carlo-zanella",
+            "text": "Carlo  is a Doctoral Candiate in the Department of Economics. Carlo joined the team for the 2018 Edition.",
+            "title": "Carlo Zanella"
+        },
+        {
+            "location": "/about/instructors/#christian-zund",
+            "text": "Christian  is a Doctoral Candiate in the Department of Economics. Christian joined the team for the 2018 Edition.",
+            "title": "Christian Zund"
         },
         {
             "location": "/editions/",
@@ -61,74 +96,34 @@
             "title": "2016 Edition"
         },
         {
-            "location": "/instructors/",
-            "text": "Instructors\n\n\nThe course is run by PhD Students in the Department of Economics and the members of the Deparment's IT engineering group.\n\n\nUlrich Bergmann\n\n\nUli\n is a Doctoral Candiate in the Department of Economics. Uli joined the team for the 2018 Edition.\n\n\nLachlan Deer\n\n\nLachlan\n is a Doctoral Candidate in the Department of Economics. His research interests lie in empirical industrial organization, quantitative marketing and structural econometrics. Lachlan was a co-founder of the PP4Rs course, teaching in 2016 and 2017.\n\n\nAdrian Etter\n\n\nAdrian\n was the team leader of the IT engineering group within the Department of Economics until the end of the 2017/18 academic year. Adrian was a co-founder of PP4RS, teaching in 2016 and 2017.\n\n\nJulian Langer\n\n\nJulian\n is a Doctoral Candidate in the Department of Economics. His research interests lie in economic history and applied econometrics.  Julian was a co-founder of PP4RS, teaching in 2016 and 2017.\n\n\nUrsina Schaede\n\n\nUrsina\n is a Doctoral Candiate in the Department of Economics. Ursina joined the team for the 2018 Edition.\n\n\nDora Simon\n\n\nDora\n is a Doctoral Candiate in the Department of Economics. Dora joined the team for the 2018 Edition.\n\n\nMax Winkler\n\n\nMax\n is a Doctoral Candidate in the Department of Economics. His research interests lie at the intersection of cultural economics, behavioural economics and development economics.\nMax was a co-founder of PP4RS, teaching in 2016 and 2017.\n\n\nCarlo Zanella\n\n\nCarlo\n is a Doctoral Candiate in the Department of Economics. Carlo joined the team for the 2018 Edition.\n\n\nChristian Zund\n\n\nChristian\n is a Doctoral Candiate in the Department of Economics. Christian joined the team for the 2018 Edition.",
-            "title": "Instructors"
+            "location": "/install-guide/",
+            "text": "",
+            "title": "Installation Guide"
         },
         {
-            "location": "/instructors/#instructors",
-            "text": "The course is run by PhD Students in the Department of Economics and the members of the Deparment's IT engineering group.",
-            "title": "Instructors"
-        },
-        {
-            "location": "/instructors/#ulrich-bergmann",
-            "text": "Uli  is a Doctoral Candiate in the Department of Economics. Uli joined the team for the 2018 Edition.",
-            "title": "Ulrich Bergmann"
-        },
-        {
-            "location": "/instructors/#lachlan-deer",
-            "text": "Lachlan  is a Doctoral Candidate in the Department of Economics. His research interests lie in empirical industrial organization, quantitative marketing and structural econometrics. Lachlan was a co-founder of the PP4Rs course, teaching in 2016 and 2017.",
-            "title": "Lachlan Deer"
-        },
-        {
-            "location": "/instructors/#adrian-etter",
-            "text": "Adrian  was the team leader of the IT engineering group within the Department of Economics until the end of the 2017/18 academic year. Adrian was a co-founder of PP4RS, teaching in 2016 and 2017.",
-            "title": "Adrian Etter"
-        },
-        {
-            "location": "/instructors/#julian-langer",
-            "text": "Julian  is a Doctoral Candidate in the Department of Economics. His research interests lie in economic history and applied econometrics.  Julian was a co-founder of PP4RS, teaching in 2016 and 2017.",
-            "title": "Julian Langer"
-        },
-        {
-            "location": "/instructors/#ursina-schaede",
-            "text": "Ursina  is a Doctoral Candiate in the Department of Economics. Ursina joined the team for the 2018 Edition.",
-            "title": "Ursina Schaede"
-        },
-        {
-            "location": "/instructors/#dora-simon",
-            "text": "Dora  is a Doctoral Candiate in the Department of Economics. Dora joined the team for the 2018 Edition.",
-            "title": "Dora Simon"
-        },
-        {
-            "location": "/instructors/#max-winkler",
-            "text": "Max  is a Doctoral Candidate in the Department of Economics. His research interests lie at the intersection of cultural economics, behavioural economics and development economics.\nMax was a co-founder of PP4RS, teaching in 2016 and 2017.",
-            "title": "Max Winkler"
-        },
-        {
-            "location": "/instructors/#carlo-zanella",
-            "text": "Carlo  is a Doctoral Candiate in the Department of Economics. Carlo joined the team for the 2018 Edition.",
-            "title": "Carlo Zanella"
-        },
-        {
-            "location": "/instructors/#christian-zund",
-            "text": "Christian  is a Doctoral Candiate in the Department of Economics. Christian joined the team for the 2018 Edition.",
-            "title": "Christian Zund"
-        },
-        {
-            "location": "/license/",
+            "location": "/license/license/",
             "text": "License\n\n\nMuch of our course has been influenced by existing courses on programming practices.\nPlease see the \nAcknowlegements\n page for further information about those who have had a large influence on our philosophy and on which some materials are based.\n\n\nAll materials, like those that we are based on, are licensed under a by attribution license, CC-BY-NC-SA in our case. The license allows you to copy, remix and redistribute any of our publicly available materials, under the condition that you attribute the work (details in the license) and do not make profits from it. Read the complete license information \nhere\n. Here is a short summary:\n\n\nYou are free to:\n\n\n\n\nShare\n \u2014 copy and redistribute the material in any medium or format\n\n\nAdapt\n \u2014 remix, transform, and build upon the material\n\n\n\n\nThe licensor cannot revoke these freedoms as long as you follow the license terms.\n\n\nUnder the following terms:\n\n\n\n\n\n\nAttribution\n \u2014 You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\n\n\n\n\n\n\nNonCommercial\n \u2014 You may not use the material for commercial purposes.\n\n\n\n\n\n\nShareAlike\n \u2014 If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n\n\n\n\n\n\nNo additional restrictions \u2014 You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n\n\nThanks!\n\n\n\n\nThis work is licensed under a \nCreative Commons Attribution-NonCommercial-ShareAlike 4.0 International License\n.\n\n\nSuggested Citation Format\n\n\nThe suggested citation to be included in any such copies and other derivative work is:\n\n\nLachlan Deer, Adran Etter, Julian Langer & Max Winkler (2017) Programming Practices for Research in Economics, University of Zurich",
             "title": "License"
         },
         {
-            "location": "/license/#license",
+            "location": "/license/license/#license",
             "text": "Much of our course has been influenced by existing courses on programming practices.\nPlease see the  Acknowlegements  page for further information about those who have had a large influence on our philosophy and on which some materials are based.  All materials, like those that we are based on, are licensed under a by attribution license, CC-BY-NC-SA in our case. The license allows you to copy, remix and redistribute any of our publicly available materials, under the condition that you attribute the work (details in the license) and do not make profits from it. Read the complete license information  here . Here is a short summary:  You are free to:   Share  \u2014 copy and redistribute the material in any medium or format  Adapt  \u2014 remix, transform, and build upon the material   The licensor cannot revoke these freedoms as long as you follow the license terms.  Under the following terms:    Attribution  \u2014 You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.    NonCommercial  \u2014 You may not use the material for commercial purposes.    ShareAlike  \u2014 If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.    No additional restrictions \u2014 You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  Thanks!   This work is licensed under a  Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License .",
             "title": "License"
         },
         {
-            "location": "/license/#suggested-citation-format",
+            "location": "/license/license/#suggested-citation-format",
             "text": "The suggested citation to be included in any such copies and other derivative work is:  Lachlan Deer, Adran Etter, Julian Langer & Max Winkler (2017) Programming Practices for Research in Economics, University of Zurich",
             "title": "Suggested Citation Format"
+        },
+        {
+            "location": "/license/acknowledgements/",
+            "text": "Acknowledgements\n\n\nThis course is designed after and borrows a lot from:\n\n\n\n\nEffective Programming Practices for Economists\n, a course by \nHans-Martin von Gaudecker\n.\n\n\nSoftware Carpentry\n and \nData Carpentry\n\n\n\n\nThe material from above sources is made available under a \nCreative Commons By Attribution Share Alike License\n, as is our courses materials and installation guide.",
+            "title": "Acknowledgements"
+        },
+        {
+            "location": "/license/acknowledgements/#acknowledgements",
+            "text": "This course is designed after and borrows a lot from:   Effective Programming Practices for Economists , a course by  Hans-Martin von Gaudecker .  Software Carpentry  and  Data Carpentry   The material from above sources is made available under a  Creative Commons By Attribution Share Alike License , as is our courses materials and installation guide.",
+            "title": "Acknowledgements"
         }
     ]
 }

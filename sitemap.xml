@@ -6,7 +6,12 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/about-us/</loc>
+     <loc>/about/about-us/</loc>
+     <lastmod>2018-06-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/about/instructors/</loc>
      <lastmod>2018-06-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -16,12 +21,17 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/instructors/</loc>
+     <loc>/install-guide/</loc>
      <lastmod>2018-06-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/license/</loc>
+     <loc>/license/license/</loc>
+     <lastmod>2018-06-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/license/acknowledgements/</loc>
      <lastmod>2018-06-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
