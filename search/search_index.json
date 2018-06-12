@@ -2,18 +2,43 @@
     "docs": [
         {
             "location": "/",
-            "text": "Willkommen!\n\n\nWelcome to the course website for Programming Practices for Research in Economics.",
+            "text": "Willkommen!\n\n\nWelcome to the course website for Programming Practices for Research in Economics at the University of Zurich.\n\n\nThe goal of this course is to equip participants with a state of the art toolkit in computational practices within Economics and Business research. Learn more about the motivation and goals for the course \nhere\n.\n\n\nAnnouncing the 2018 Edition\n\n\nThe 2018 Edition of Programming Practices for Research in Economics will be held from August 27, 2018 until September 14, 2018. A link to the 2018 course webpage will be made available shortly.\n\n\nPrevious Editions\n\n\nIf you are looking for course materials from previous editions of the course, please see the \nEditions\n page for a complete set of links.",
             "title": "Home"
         },
         {
             "location": "/#willkommen",
-            "text": "Welcome to the course website for Programming Practices for Research in Economics.",
+            "text": "Welcome to the course website for Programming Practices for Research in Economics at the University of Zurich.  The goal of this course is to equip participants with a state of the art toolkit in computational practices within Economics and Business research. Learn more about the motivation and goals for the course  here .",
             "title": "Willkommen!"
         },
         {
+            "location": "/#announcing-the-2018-edition",
+            "text": "The 2018 Edition of Programming Practices for Research in Economics will be held from August 27, 2018 until September 14, 2018. A link to the 2018 course webpage will be made available shortly.",
+            "title": "Announcing the 2018 Edition"
+        },
+        {
+            "location": "/#previous-editions",
+            "text": "If you are looking for course materials from previous editions of the course, please see the  Editions  page for a complete set of links.",
+            "title": "Previous Editions"
+        },
+        {
             "location": "/about/about-us/",
-            "text": "Here is some information to add",
+            "text": "Motivation\n\n\nMuch of modern economics and business research involves the researcher spending their lives in front of a computer -- analysing data or simulating theoretical models.\n\n\nUnfortunately, it is rare that they have been taught how to do this well.\nExposure to programming languages in the current graduate curriculum is most often limited to the simple use of Stata and Matlab to solve `toy' examples designed to illustrate a theoretical result or implement a method with known properties and ex-ante known results.\nThese skills do not scale up in a straightforward manner to handle complex projects that make up research papers, PhD theses or typical work in government or private business settings.\nAs a result, graduate researchers in economics and business spend too much time wrestling with the software required to produce their research.\n\n\nThis course is designed to assist graduate and early career researchers become more fluent in conducting computational research.\nIt is aimed at PhD students who expect to write their theses in a field that requires modest to heavy use of computation.\nExamples include applied microeconomics, econometrics, macroeconomics, computational economics.\nWe introduce students to programming methods that will substantially reduce their time spent programming while at the same time making their programs more dependable and their results reproducible.\n\n\nThe course draws extensively on some simple techniques that are the backbone of modern software development which most economists\nare simply not aware of.\nIt shows the usefulness of these techniques by means of hands-on examples for a wide variety of economic and econometric applications.\n\n\nTarget Audience\n\n\nThis course is intended for PhD students who are transitioning from coursework to research.\nNext to your economics background, we will only assume that you have written small pieces of code before, like Stata .do-files or Matlab .m-files for problem sets in your Masters degree or first-year PhD classes.\nKnowledge of a specific programming language is not required.\n\n\nA large part of this course is really about tool choice.\nWe will take care in pointing out which language is most appropriate for which problem, and provide you with introductions to three popular choices for data- and computationally intensive computing.\nThese are not the only choices available but some knowledge of these languages will make picking up others on your own or through our PhD computing seminars relatively easy.\n\n\nCourse Objectives\n\n\nThis course has two closely intertwined objectives:\n\n\n\n\nEnhancing students' programming efficiency.\n\n\nProviding the tools to make data analysis and computation reproducible.",
             "title": "Motivation"
+        },
+        {
+            "location": "/about/about-us/#motivation",
+            "text": "Much of modern economics and business research involves the researcher spending their lives in front of a computer -- analysing data or simulating theoretical models.  Unfortunately, it is rare that they have been taught how to do this well.\nExposure to programming languages in the current graduate curriculum is most often limited to the simple use of Stata and Matlab to solve `toy' examples designed to illustrate a theoretical result or implement a method with known properties and ex-ante known results.\nThese skills do not scale up in a straightforward manner to handle complex projects that make up research papers, PhD theses or typical work in government or private business settings.\nAs a result, graduate researchers in economics and business spend too much time wrestling with the software required to produce their research.  This course is designed to assist graduate and early career researchers become more fluent in conducting computational research.\nIt is aimed at PhD students who expect to write their theses in a field that requires modest to heavy use of computation.\nExamples include applied microeconomics, econometrics, macroeconomics, computational economics.\nWe introduce students to programming methods that will substantially reduce their time spent programming while at the same time making their programs more dependable and their results reproducible.  The course draws extensively on some simple techniques that are the backbone of modern software development which most economists\nare simply not aware of.\nIt shows the usefulness of these techniques by means of hands-on examples for a wide variety of economic and econometric applications.",
+            "title": "Motivation"
+        },
+        {
+            "location": "/about/about-us/#target-audience",
+            "text": "This course is intended for PhD students who are transitioning from coursework to research.\nNext to your economics background, we will only assume that you have written small pieces of code before, like Stata .do-files or Matlab .m-files for problem sets in your Masters degree or first-year PhD classes.\nKnowledge of a specific programming language is not required.  A large part of this course is really about tool choice.\nWe will take care in pointing out which language is most appropriate for which problem, and provide you with introductions to three popular choices for data- and computationally intensive computing.\nThese are not the only choices available but some knowledge of these languages will make picking up others on your own or through our PhD computing seminars relatively easy.",
+            "title": "Target Audience"
+        },
+        {
+            "location": "/about/about-us/#course-objectives",
+            "text": "This course has two closely intertwined objectives:   Enhancing students' programming efficiency.  Providing the tools to make data analysis and computation reproducible.",
+            "title": "Course Objectives"
         },
         {
             "location": "/about/instructors/",
@@ -71,6 +96,16 @@
             "title": "Christian Zund"
         },
         {
+            "location": "/about/contact/",
+            "text": "Contact\n\n\nPlease contact us via email:\n\n\nprogramming \"AT\" econ.uzh.ch\n\n\n\nwith a title that starts with \"Programming Practices for Research in Economics\"",
+            "title": "Contact"
+        },
+        {
+            "location": "/about/contact/#contact",
+            "text": "Please contact us via email:  programming \"AT\" econ.uzh.ch  with a title that starts with \"Programming Practices for Research in Economics\"",
+            "title": "Contact"
+        },
+        {
             "location": "/editions/",
             "text": "Editions\n\n\nProgramming Practices for Research in Economics was launched in 2016.\nLinks to Individual Versions of the Course can be found below.\n\n\n2018 Edition\n\n\nThe 2018 edition will be held immediately before the 2018 Fall Semester at Uni Zurich.\n\n\nStay tuned for updates.\n\n\n2017 Edition\n\n\nThe 2017 edition was held from the 28th August until 15th September, 2017.\n\n\n\n\nLinks\n\n\nCourse Material for the 2017 edition can be found here:\n\n\n\n\nCourse Syllabus\n\n\nInstallation Guide\n\n\nCourse Home Page\n\n\nCourse Material\n\n\n\n\n\n\n2016 Edition\n\n\nThe 2016 edition was held from the 29th August until 9th September, 2016.\n\n\n\n\nLinks\n\n\n\n\nCourse Syllabus\n\n\nCourse Material\n\n\nrequires a Department of Economics log in",
             "title": "Editions"
@@ -97,8 +132,18 @@
         },
         {
             "location": "/install-guide/",
-            "text": "",
+            "text": "Installation Guide\n\n\nSetting up a computer to do computational / statistical resarch is often an intimidating first step.\nWe provide a step-by-step set of instructions for participants on how to install all of the required software for the course.\nOur instructions provide details for Windows, Mac and Ubuntu flavoured Linux machines.\n\n\nWe use these instructions ourselves when setting up our machines.\nLet us know if you find the instructions useful for your own work.\n\n\nIf you find errors or explanations that lack clarity, drop us a short email (see \nContact\n page) and we'll do our best to add some clarifiying information.\n\n\nThe most recent version of the installation guide is available \nhere\n.\n\n\nPrevious Versions\n\n\nWe archive older versions of the installation guide so that participants in previous editions have access to how to set up the environment they used during the course.\n\n\nThe 2017 Installation Guide is \nhere\n.\n\n\n\n\nWe recommend that 2016 participants use this version. The topics are essentially unchanged but the clarity in instructions is much improved.",
             "title": "Installation Guide"
+        },
+        {
+            "location": "/install-guide/#installation-guide",
+            "text": "Setting up a computer to do computational / statistical resarch is often an intimidating first step.\nWe provide a step-by-step set of instructions for participants on how to install all of the required software for the course.\nOur instructions provide details for Windows, Mac and Ubuntu flavoured Linux machines.  We use these instructions ourselves when setting up our machines.\nLet us know if you find the instructions useful for your own work.  If you find errors or explanations that lack clarity, drop us a short email (see  Contact  page) and we'll do our best to add some clarifiying information.  The most recent version of the installation guide is available  here .",
+            "title": "Installation Guide"
+        },
+        {
+            "location": "/install-guide/#previous-versions",
+            "text": "We archive older versions of the installation guide so that participants in previous editions have access to how to set up the environment they used during the course.  The 2017 Installation Guide is  here .   We recommend that 2016 participants use this version. The topics are essentially unchanged but the clarity in instructions is much improved.",
+            "title": "Previous Versions"
         },
         {
             "location": "/license/license/",
