@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "Willkommen!\n\n\nWelcome to the course website for Programming Practices for Research in Economics at the University of Zurich.\n\n\nThe goal of this course is to equip participants with a state of the art toolkit in computational practices within Economics and Business research. Learn more about the motivation and goals for the course \nhere\n.\n\n\nAnnouncing the 2018 Edition\n\n\nThe 2018 Edition of Programming Practices for Research in Economics will be held from August 27, 2018 until September 14, 2018. A link to the 2018 course webpage will be made available shortly.\n\n\nPrevious Editions\n\n\nIf you are looking for course materials from previous editions of the course, please see the \nEditions\n page for a complete set of links.",
+            "text": "Willkommen!\n\n\nWelcome to the course website for Programming Practices for Research in Economics at the University of Zurich.\n\n\nThe goal of this course is to equip participants with a state of the art toolkit in computational practices within Economics and Business research. Learn more about the motivation and goals for the course \nhere\n.\n\n\nAnnouncing the 2018 Edition\n\n\nThe 2018 Edition of Programming Practices for Research in Economics will be held from August 27, 2018 until September 19, 2018. You find the course website with the schedule and all other information \nhere\n.\n\n\nPrevious Editions\n\n\nIf you are looking for course materials from previous editions of the course, please see the \nEditions\n page for a complete set of links.",
             "title": "Home"
         },
         {
@@ -12,7 +12,7 @@
         },
         {
             "location": "/#announcing-the-2018-edition",
-            "text": "The 2018 Edition of Programming Practices for Research in Economics will be held from August 27, 2018 until September 14, 2018. A link to the 2018 course webpage will be made available shortly.",
+            "text": "The 2018 Edition of Programming Practices for Research in Economics will be held from August 27, 2018 until September 19, 2018. You find the course website with the schedule and all other information  here .",
             "title": "Announcing the 2018 Edition"
         },
         {
@@ -107,7 +107,7 @@
         },
         {
             "location": "/editions/",
-            "text": "Editions\n\n\nProgramming Practices for Research in Economics was launched in 2016.\nLinks to Individual Versions of the Course can be found below.\n\n\n2018 Edition\n\n\nThe 2018 edition will be held immediately before the 2018 Fall Semester at Uni Zurich.\n\n\nStay tuned for updates.\n\n\n2017 Edition\n\n\nThe 2017 edition was held from the 28th August until 15th September, 2017.\n\n\n\n\nLinks\n\n\nCourse Material for the 2017 edition can be found here:\n\n\n\n\nCourse Syllabus\n\n\nInstallation Guide\n\n\nCourse Home Page\n\n\nCourse Material\n\n\n\n\n\n\n2016 Edition\n\n\nThe 2016 edition was held from the 29th August until 9th September, 2016.\n\n\n\n\nLinks\n\n\n\n\nCourse Syllabus\n\n\nCourse Material\n\n\nrequires a Department of Economics log in",
+            "text": "Editions\n\n\nProgramming Practices for Research in Economics was launched in 2016.\nLinks to Individual Versions of the Course can be found below.\n\n\n2018 Edition\n\n\nThe 2018 edition will be held August 27 - September 19, 2018 at Uni Zurich.\n\n\n\n\nLinks\n\n\nCourse Material for the 2018 edition can be found here:\n\n\n\n\nCourse Home Page\n\n\nInstallation Guide\n\n\nCourse Syllabus: TBA\n\n\nCourse Material\n\n\n\n\n\n\n2017 Edition\n\n\nThe 2017 edition was held from the August 28 - September 15, 2017.\n\n\n\n\nLinks\n\n\nCourse Material for the 2017 edition can be found here:\n\n\n\n\nCourse Home Page\n\n\nInstallation Guide\n\n\nCourse Syllabus\n\n\nCourse Material\n\n\n\n\n\n\n2016 Edition\n\n\nThe 2016 edition was held from the 29th August until 9th September, 2016.\n\n\n\n\nLinks\n\n\n\n\nCourse Syllabus\n\n\nCourse Material\n\n\nrequires a Department of Economics log in",
             "title": "Editions"
         },
         {
@@ -117,12 +117,12 @@
         },
         {
             "location": "/editions/#2018-edition",
-            "text": "The 2018 edition will be held immediately before the 2018 Fall Semester at Uni Zurich.  Stay tuned for updates.",
+            "text": "The 2018 edition will be held August 27 - September 19, 2018 at Uni Zurich.   Links  Course Material for the 2018 edition can be found here:   Course Home Page  Installation Guide  Course Syllabus: TBA  Course Material",
             "title": "2018 Edition"
         },
         {
             "location": "/editions/#2017-edition",
-            "text": "The 2017 edition was held from the 28th August until 15th September, 2017.   Links  Course Material for the 2017 edition can be found here:   Course Syllabus  Installation Guide  Course Home Page  Course Material",
+            "text": "The 2017 edition was held from the August 28 - September 15, 2017.   Links  Course Material for the 2017 edition can be found here:   Course Home Page  Installation Guide  Course Syllabus  Course Material",
             "title": "2017 Edition"
         },
         {
@@ -132,12 +132,12 @@
         },
         {
             "location": "/install-guide/",
-            "text": "Installation Guide\n\n\nSetting up a computer to do computational / statistical resarch is often an intimidating first step.\nWe provide a step-by-step set of instructions for participants on how to install all of the required software for the course.\nOur instructions provide details for Windows, Mac and Ubuntu flavoured Linux machines.\n\n\nWe use these instructions ourselves when setting up our machines.\nLet us know if you find the instructions useful for your own work.\n\n\nIf you find errors or explanations that lack clarity, drop us a short email (see \nContact\n page) and we'll do our best to add some clarifiying information.\n\n\nThe most recent version of the installation guide is available \nhere\n.\n\n\nPrevious Versions\n\n\nWe archive older versions of the installation guide so that participants in previous editions have access to how to set up the environment they used during the course.\n\n\nThe 2017 Installation Guide is \nhere\n.\n\n\n\n\nWe recommend that 2016 participants use this version. The topics are essentially unchanged but the clarity in instructions is much improved.",
+            "text": "Installation Guide\n\n\nSetting up a computer to do computational / statistical resarch is often an intimidating first step.\nWe provide a step-by-step set of instructions for participants on how to install all of the required software for the course.\nOur instructions provide details for Windows, Mac and Ubuntu flavoured Linux machines.\n\n\nWe use these instructions ourselves when setting up our machines.\nLet us know if you find the instructions useful for your own work.\n\n\nIf you find errors or explanations that lack clarity, drop us a short email (see \nContact\n page) and we'll do our best to add some clarifiying information.\n\n\n\n\n\nThe installation guide for 2018 will be posted in mid August\n\n\nPrevious Versions\n\n\nWe archive older versions of the installation guide so that participants in previous editions have access to how to set up the environment they used during the course.\n\n\nThe 2017 Installation Guide is \nhere\n.\n\n\n\n\nWe recommend that 2016 participants use this version. The topics are essentially unchanged but the clarity in instructions is much improved.",
             "title": "Installation Guide"
         },
         {
             "location": "/install-guide/#installation-guide",
-            "text": "Setting up a computer to do computational / statistical resarch is often an intimidating first step.\nWe provide a step-by-step set of instructions for participants on how to install all of the required software for the course.\nOur instructions provide details for Windows, Mac and Ubuntu flavoured Linux machines.  We use these instructions ourselves when setting up our machines.\nLet us know if you find the instructions useful for your own work.  If you find errors or explanations that lack clarity, drop us a short email (see  Contact  page) and we'll do our best to add some clarifiying information.  The most recent version of the installation guide is available  here .",
+            "text": "Setting up a computer to do computational / statistical resarch is often an intimidating first step.\nWe provide a step-by-step set of instructions for participants on how to install all of the required software for the course.\nOur instructions provide details for Windows, Mac and Ubuntu flavoured Linux machines.  We use these instructions ourselves when setting up our machines.\nLet us know if you find the instructions useful for your own work.  If you find errors or explanations that lack clarity, drop us a short email (see  Contact  page) and we'll do our best to add some clarifiying information.   The installation guide for 2018 will be posted in mid August",
             "title": "Installation Guide"
         },
         {
