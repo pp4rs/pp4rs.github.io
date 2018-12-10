@@ -10,138 +10,155 @@
         <link rel="shortcut icon" href="../img/favicon.ico">
         <title>Installation Guide - Programming Practices for Research in Economics</title>
         <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
-        <link href="../css/font-awesome-4.5.0.css" rel="stylesheet">
+        <link href="../css/font-awesome.min.css" rel="stylesheet">
         <link href="../css/base.css" rel="stylesheet">
-        <link rel="stylesheet" href="../css/highlight.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/color-brewer.min.css">
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
             <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
 
-        <script src="../js/jquery-1.10.2.min.js"></script>
-        <script src="../js/bootstrap-3.0.3.min.js"></script>
-        <script src="../js/highlight.pack.js"></script> 
+        <script src="../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
     </head>
 
     <body>
 
         <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-    <div class="container">
+            <div class="container">
 
-        <!-- Collapsed navigation -->
-        <div class="navbar-header">
-            <!-- Expander button -->
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="..">Programming Practices for Research in Economics</a>
-        </div>
+                <!-- Collapsed navigation -->
+                <div class="navbar-header">
+                    <!-- Expander button -->
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="..">Programming Practices for Research in Economics</a>
+                </div>
 
-        <!-- Expanded navigation -->
-        <div class="navbar-collapse collapse">
-                <!-- Main navigation -->
-                <ul class="nav navbar-nav">
-                    <li >
-                        <a href="..">Home</a>
-                    </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            
+                <!-- Expanded navigation -->
+                <div class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li >
+                                <a href="..">Home</a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
 <li >
     <a href="../about/about-us/">Motivation</a>
 </li>
-                            
+                                    
 <li >
     <a href="../about/instructors/">Instructors</a>
 </li>
-                            
+                                    
 <li >
     <a href="../about/contact/">Contact</a>
 </li>
-                        </ul>
-                    </li>
-                    <li >
-                        <a href="../editions/">Editions</a>
-                    </li>
-                    <li class="active">
-                        <a href="./">Installation Guide</a>
-                    </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">License <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            
+                                </ul>
+                            </li>
+                            <li >
+                                <a href="../editions/">Editions</a>
+                            </li>
+                            <li class="active">
+                                <a href="./">Installation Guide</a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">License <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
 <li >
     <a href="../license/license/">License</a>
 </li>
-                            
+                                    
 <li >
     <a href="../license/acknowledgements/">Acknowledgements</a>
 </li>
+                                </ul>
+                            </li>
                         </ul>
-                    </li>
-                </ul>
 
-            <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
-                        <i class="fa fa-search"></i> Search
-                    </a>
-                </li>
-                    <li >
-                        <a rel="next" href="../editions/">
-                            <i class="fa fa-arrow-left"></i> Previous
-                        </a>
-                    </li>
-                    <li >
-                        <a rel="prev" href="../license/license/">
-                            Next <i class="fa fa-arrow-right"></i>
-                        </a>
-                    </li>
-            </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li >
+                                <a rel="next" href="../editions/">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li >
+                                <a rel="prev" href="../license/license/">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
         </div>
-    </div>
-</div>
 
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
         <li class="main active"><a href="#installation-guide">Installation Guide</a></li>
-            <li><a href="#previous-versions">Previous Versions</a></li>
+            <li><a href="#current-installation-guides">Current Installation Guides</a></li>
+            <li><a href="#archived-installation-guides">Archived Installation Guides</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h1 id="installation-guide"><a href="https://pp4rs.github.io/installation-guide/">Installation Guide</a></h1>
+<h1 id="installation-guide">Installation Guide</h1>
 <p>Setting up a computer to do computational / statistical resarch is often an intimidating first step.
 We provide a step-by-step set of instructions for participants on how to install all of the required software for the course.
 Our instructions provide details for Windows, Mac and Ubuntu flavoured Linux machines.</p>
 <p>We use these instructions ourselves when setting up our machines.
 Let us know if you find the instructions useful for your own work.</p>
-<p>If you find errors or explanations that lack clarity, drop us a short email (see <a href="../about/contact/">Contact</a> page) and we'll do our best to add some clarifiying information.</p>
+<p>If you find errors or explanations that lack clarity, drop us a short email (see <a href="/about/contact/">Contact</a> page) or post an issue on the respective Github pages listed below and we'll do our best to add some clarifiying information.</p>
 <!-- **The most recent version of the installation guide is available [here](https://pp4rs.github.io/installation-guide/).** -->
 
-<p><strong>The installation guide for 2018 will be posted in mid August</strong></p>
-<h2 id="previous-versions">Previous Versions</h2>
-<p>We archive older versions of the installation guide so that participants in previous editions have access to how to set up the environment they used during the course.</p>
-<p><strong>The 2017 Installation Guide is <a href="https://pp4rs.github.io/2017-uzh-installation-guide/">here</a>.</strong></p>
+<h3 id="current-installation-guides">Current Installation Guides</h3>
 <ul>
+<li>The Installation Guide for the 4 day "Foundations" Course is available <a href="https://pp4rs.github.io/foundations-installation-guide/">here</a>.<ul>
+<li>Installation Issues - <a href="https://github.com/pp4rs/foundations-installation-guide/issues">tells us about them</a>.</li>
+</ul>
+</li>
+<li>The Installation Guide for the 3 week course typically held in Summer is <a href="https://pp4rs.github.io/installation-guide/">here</a>.<ul>
+<li>Installation Issues - <a href="https://github.com/pp4rs/installation-guide/issues">tells us about them</a>.</li>
+</ul>
+</li>
+</ul>
+<h3 id="archived-installation-guides">Archived Installation Guides</h3>
+<p>We archive older versions of the installation guide so that participants in previous editions have access to how to set up the environment they used during the course.</p>
+<ul>
+<li>The 2018 Installation Guide is <a href="https://pp4rs.github.io/2018-uzh-installation-guide/">here</a></li>
+<li>The 2017 Installation Guide is <a href="https://pp4rs.github.io/2017-uzh-installation-guide/">here</a>.<ul>
 <li>We recommend that 2016 participants use this version. The topics are essentially unchanged but the clarity in instructions is much improved.</li>
+</ul>
+</li>
 </ul></div>
         </div>
 
         <footer class="col-md-12">
             <hr>
-            <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
         </footer>
-        <script>var base_url = '..';</script>
-        <script src="../js/base.js"></script>
-        <script src="../search/require.js"></script>
-        <script src="../search/search.js"></script>
+        <script>
+            var base_url = "..",
+                shortcuts = {"previous": 80, "next": 78, "help": 191, "search": 83};
+        </script>
+        <script src="../js/base.js" defer></script>
+        <script src="../search/main.js" defer></script>
 
         <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
     <div class="modal-dialog">
@@ -157,7 +174,7 @@ Let us know if you find the instructions useful for your own work.</p>
                 </p>
                 <form role="form">
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
                     </div>
                 </form>
                 <div id="mkdocs-search-results"></div>
@@ -183,19 +200,19 @@ Let us know if you find the instructions useful for your own work.</p>
                 </thead>
                 <tbody>
                   <tr>
-                    <td><kbd>?</kbd></td>
+                    <td class="help shortcut"><kbd>?</kbd></td>
                     <td>Open this help</td>
                   </tr>
                   <tr>
-                    <td><kbd>&larr;</kbd></td>
-                    <td>Previous page</td>
-                  </tr>
-                  <tr>
-                    <td><kbd>&rarr;</kbd></td>
+                    <td class="next shortcut"><kbd>n</kbd></td>
                     <td>Next page</td>
                   </tr>
                   <tr>
-                    <td><kbd>s</kbd></td>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
                     <td>Search</td>
                   </tr>
                 </tbody>
@@ -206,7 +223,6 @@ Let us know if you find the instructions useful for your own work.</p>
         </div>
     </div>
 </div>
-
 
     </body>
 </html>
