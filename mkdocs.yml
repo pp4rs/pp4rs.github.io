@@ -1,0 +1,17 @@
+site_name: Programming Practices for Research in Economics
+nav:
+- Welcome: welcome.md
+- Motivation: motivation.md
+- Instructors: instructors.md
+- Schedule: schedule.md
+- Installation Guide: install_guide.md
+- Course Material: course_material.md
+- Evaluation: evaluation.md
+- Contact Us/Communication: contact.md
+- Archive: editions.md
+- Citation & License: citation-license.md
+- Acknowledgements: acknowledgement.md
+
+theme: readthedocs
+markdown_extensions:
+  - admonition
