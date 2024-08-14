@@ -47,11 +47,6 @@ mkdocs gh-deploy
 
 * After a short period of time the website should be available.
 
-## Want to Contribute
-
-* See the contributing guide [here](CONTRIBUTING.md).
-* By contributing you agree to abide by the [Code of Conduct](CONDUCT.md)
-
 ## License
 
 All materials are licensed under a Creative Commons CC-SA license. The license allows you to copy, remix and redistribute any of our publicly available materials, under the condition that you attribute the work (details in the license). More information is available [here](http://creativecommons.org/licenses/by-sa/4.0/)
@@ -61,7 +56,7 @@ All materials are licensed under a Creative Commons CC-SA license. The license a
 The suggested citation for the course materials is:
 
 ``` bash
-Julius Schäper, 2024, Installation Guide, Programming Practices for Research in Economics, University of Zurich
+Julius Schäper, 2024, Programming Practices for Research in Economics, University of Zurich
 ```
 
 If you find the installation guide useful - please drop us a line and say so - pp4rs@econ.uzh.ch
