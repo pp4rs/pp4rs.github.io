@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 <!-- see https://github.com/DavidAnson/markdownlint for code to enable or disable rules -->
 
-# Module:  Installation Guide for Programming Practices for Research Students
+# Module:  Webpage Programming Practices for Research Students
 
 [![GitHub Pages](https://github.com/pp4rs/pp4rs.github.io/actions/workflows/deploy.yaml/badge.svg)](https://github.com/pp4rs/pp4rs.github.io//actions/workflows/deploy.yaml)
 [![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
