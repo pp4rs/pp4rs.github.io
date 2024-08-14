@@ -1,6 +1,6 @@
 site_name: Programming Practices for Research in Economics
 nav:
-- Welcome: welcome.md
+- Welcome: index.md
 - Motivation: motivation.md
 - Instructors: instructors.md
 - Schedule: schedule.md

@@ -28,3 +28,6 @@ By the end of this course, students will be able to:
 10. Manage a research project using the workflow management software Snakemake.
 
 Learning objectives for specific modules will be provided within the Course Notes.
+
+# Rules of the Game
+The class is designed to be _hands-on_ in the sense that you will be programming a lot of things during the class. We strongly believe the only way to learn programming is to do programming. Please bring your laptop with you to each session and install the required software before the course begins. Try to complete each activity we do in class and be prepared to ask and answer questions during class. Slides or notes will be made available at the beginning of each day, codes that solve exercises will be posted during or after the session.
