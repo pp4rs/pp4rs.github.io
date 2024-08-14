@@ -11,8 +11,11 @@
 ## Meta-Information
 
 * Module Maintainer: Julius Schäper (`@jfschaeper`)
-* Course: [Programming Practices for Research in Economics](https://pp4rs.github.io)
+* Course: [pp4rs.github.io](https://pp4rs.github.io)
 * Institute: Dept of Economics, Uni Zurich
+
+## Editing the Site
+To edit information displayed on the webpage, edit the markdown documents in `docs`. Each `.md` corresponds to one subpage of the webpage. The general structure of the entire webpage is provided by `mkdocs.yml`. To add a new subpage, add it at the desired position in `mkdocs.yml` and create the `.md` file in docs.
 
 ## Building the Site
 
@@ -32,7 +35,7 @@ conda env create -f environment.yml -n <env_name>
 mkdocs serve
 ```
 
-* The website will be served at http://127.0.0.1:8000.
+* The website will be served at http://127.0.0.1:8000/.
 
 If you want to host the website on GitHub pages:
 
