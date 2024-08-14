@@ -26,7 +26,13 @@ Max is a postdoctoral Fellow at Harvard University with Joseph Henrich’s Cultu
 
 Julius is a PhD candidate at the University of Zurich. He is interested in Econometrics, Machine Learning and applies the techniques to questions in Empirical Microeconomics.
 
-## Previous Instructors
+### Frederik Bennhoff
+
+### Sára Khayouti
+
+### Justinas Grigaitis
+
+## Previous Instructors and TAs
 
 ### Ulrich Bergmann
 
@@ -34,7 +40,7 @@ Uli is a Senior Data Scientist at Tourlane. His research interests lie in behavi
 
 ### Matteo Courthoud
 
-Matteo is a Doctoral Candidate in the Department of Economics. His research interests lie in empirical industrial organization. Uli joined the team for the 2020 Edition.
+Matteo is a Doctoral Candidate in the Department of Economics. His research interests lie in empirical industrial organization.
 
 ### Ursina Schaede
 
@@ -42,7 +48,7 @@ Ursina will be an SNSF post doc at MIT for 2022/23 and subsequently join the Dep
 
 ### Lexi Schubert
 
-Lexi is a Doctoral Candidate in the Department of Economics. Christian joined the team for the 2021 Edition.
+Lexi is a Doctoral Candidate in the Department of Economics.
 
 ### Dora Simon
 
