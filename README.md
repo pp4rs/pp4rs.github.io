@@ -13,7 +13,6 @@
 * Module Maintainer: Julius Schäper (`@jfschaeper`)
 * Course: [Programming Practices for Research in Economics](https://pp4rs.github.io)
 * Institute: Dept of Economics, Uni Zurich
-* Current Version: [Fall 2024 edition](https://pp4rs.github.io/2024-uzh-installation-guide)
 
 ## Building the Site
 
@@ -33,7 +32,7 @@ conda env create -f environment.yml -n <env_name>
 mkdocs serve
 ```
 
-* The website will be served at http://127.0.0.1:8000/python/.
+* The website will be served at http://127.0.0.1:8000.
 
 If you want to host the website on GitHub pages:
 
