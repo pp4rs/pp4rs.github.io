@@ -28,6 +28,8 @@ Julius is a PhD candidate at the University of Zurich. He is interested in Econo
 
 ### Frederik Bennhoff
 
+Fred is a PhD candidate at the University of Zurich. He works in Macroeconomics and Public Finance.
+
 ### Sára Khayouti
 
 ### Justinas Grigaitis
