@@ -32,6 +32,8 @@ Fred is a PhD candidate at the University of Zurich. He works in Macroeconomics 
 
 ### Sára Khayouti
 
+Sára is a PhD candidate at the University of Zurich. Her research interests lie in the field of behavioural economics, especially in behavioural development economics and behavioral theory.
+
 ### Justinas Grigaitis
 
 ## Previous Instructors and TAs
